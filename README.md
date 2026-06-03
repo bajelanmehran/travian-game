@@ -16,7 +16,11 @@ The research was conducted entirely through:
 
 The goal was to understand the underlying architecture, game engine design, and mathematical models that power the game — for educational and professional development purposes.
 
-![Architecture Overview](./diagrams/architecture-overview.svg)
+<div align="center">
+  
+  ![Architecture Overview](./diagrams/architecture-overview.svg)
+
+</div>
 
 ---
 
